@@ -1,9 +1,12 @@
 ---
 layout: default
 title: Home
-group: "home"
+group: "navigation"
+order: 1
 ---
 
 # Welcome!
 
-Coming soon!
+This website is currently under development.
+
+More coming soon!

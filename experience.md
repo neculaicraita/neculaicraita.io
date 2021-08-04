@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Contact
+title: Experience
 group: "navigation"
+order: 2
 ---
 
-# Contact
+# Experience
 Coming soon.
