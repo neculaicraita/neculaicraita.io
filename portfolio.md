@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Portfolio
+title: Design Portfolio
 group: "navigation"
 order: 3
 ---
 
-# Portfolio
+# Design Portfolio
 Coming soon.

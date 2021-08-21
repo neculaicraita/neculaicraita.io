@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Contact
+title: References
 group: "navigation"
-order: 6
+order: 5
 ---
 
-# Contact
+# References
 Coming soon.
