@@ -1,2 +1,0 @@
-# neculaicraita.io
-Personal Website

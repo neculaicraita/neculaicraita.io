@@ -5,9 +5,9 @@
 }
 
 img.wrapped {
-    float: left;
+    float: right;
     margin: 0 15px;
-    max-width: 25%;
+    max-width: 35%;
     height: auto;
     // -webkit-shape-outside:circle();
     // shape-outside:circle();

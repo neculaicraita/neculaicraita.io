@@ -3,7 +3,7 @@ layout: default
 title: Experience
 group: "navigation"
 order: 2
-published: false
+published: true
 ---
 
 # ***Neculai Craita***
@@ -70,7 +70,7 @@ German & Romanian
 -	Software package programs for post-processing TRIBON production information in accordance with shipyards needs;
 -	KCS & TRIBON Expert and Trainer for General Design, Curved and Planar Hull Modelling, Hull Production Information, Nesting and Work Preparation;
 -	Managing Classification and Detail design of the first Container Vessel 1100TEU project for SCHIFFKO Hamburg. _This project has been later repeated and built under SCHIFFKO license for  more than 100 times in different shipyards from the world_;
--	Managing the extended basic design projects for vor various Cruise Vessels built by Chantiers de l’Antlantique in St. Nazaire/ France.
+-	Managing the extended basic design projects for various Cruise Vessels built by Chantiers de l’Antlantique in St. Nazaire/ France.
 
 **2000 - 2007:** _Design Engineer / Project Manager_ at **SCHIFFKO Hamburg** _-Consulting and Design Office for Shipbuilding / Research and Development of Maritime Systems_
 -	Conceptual and Classification design Hull Structure & Outfitting for different size of Container Ships (1100TEU, 1750TEU, 2500TEU);
@@ -108,7 +108,7 @@ German & Romanian
 -	Concept and Development of various innovative vessels and maritime systems to be offered to the Clients.
 
 **2013 - 2021:** _Head of Structural Design & Hull Outfitting_ at **TECHNOLOG-Services GmbH Hamburg**
--	Classification design for the Widening Conversion project for SAIPEM PLV CASORONE with significant enhancement for S-Lay and J-Lay operational loads;
+-	Classification design for the Widening Conversion project for SAIPEM PLV CASTORONE with significant enhancement for S-Lay and J-Lay operational loads;
 -	Classification and Detail design for the Wärtsilä inboard demountable Thrusters installed on the FPSO vessel for INPEX project.
 -	Managing and Designing of different ship structural projects for new buildings and Conversion design as STREAM 5000 / 4500 LNG container vessels _(innovative design)_, Feasibility Studies for Widening of the Container Vessel 7000 TEU and for other Panmax Vessels, Feasibility Study for the lengthening conversion of the Container Vessel 13000 TEU, Conversion design for the Cruise vessel Costa Serena etc;
 -	Classification design for the Widening & Lengthening Conversion project of NSB Panmax Container  Vessels _– first widening conversion project in the world applied for three vessels which have been successfully built by HRDD shipyard in China_;
@@ -116,11 +116,11 @@ German & Romanian
 -	Consulting and Structure Plan approval on behalf of Lloyd Werft Germany for CEONA AMAZON Pipe Layer Vessel;
 -	Structural Engineering and Classification design for the Wärtsilä specialized outboard de-mountable thruster’s supporting structure for HELIX Semi-submersible Unit;
 -	Consulting and Plan Approval for the Floating Dock FDN-2 design for India;
--	Structural Engineering and Classification design for the Wärtsilä In-board Demountable Thrusters installed on the new FPSO vessel for ENI FLNG project;
+-	Structural Engineering and Classification design for the Wärtsilä Inboard Demountable Thrusters installed on the new FPSO vessel for ENI FLNG project;
 -	Classification structural design for the Research Vessel ATAIR built by Fassmer Shipyard;
--	Consulting, Plan Approval and Supervision at Lloyd Werft Bremerhaven for the Conversion project of the DFDS Ferry MS Primolia;
+-	Consulting, Plan Approval and Supervision at Lloyd Werft Bremerhaven for the Conversion project of the DFDS Ferry MS Primola;
 -	Consulting and Classification structural design with the required Finite Element Analysis for the Deck Carrier DC1000 from Heavy Lift;
--	Container Vessel’s Cargo Boosting Software for MacGregor;
+-	Container Vessel’s Cargo Boosting Software Algorithm for MacGregor;
 -	Consulting and Classification design based on extensive Finite Element Analysis for the LNG Conversion project of the Hapag Lloyd 15000 TEU Container vessel Sajir/Brussels Express -by implementing on the vessel an Exoskeleton LNG Tank fitted with GTT Membrane System _- the first LNG Conversion project in the world for a Very Large Container Vessel built successfully by HZ-HRDD Ship-yard in China_;
 -	Feasibility Study for 2700TEU Container Vessel for Ice class 1A Retrofit from X-Press Feeder.
 
